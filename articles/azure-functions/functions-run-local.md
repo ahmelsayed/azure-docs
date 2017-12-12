@@ -56,12 +56,6 @@ Version 2.x of the tools uses the Azure Functions runtime 2.x that is built on .
 npm install -g azure-functions-core-tools@core
 ```
 
-When installing on Ubuntu use `sudo`, as follows:
-
-```bash
-sudo npm install -g azure-functions-core-tools@core
-```
-
 When installing on macOS and Linux, you may need to include the `unsafe-perm` flag, as follows:
 
 ```bash
